@@ -9,4 +9,6 @@
 - Построены визуализации в Power BI и Python
 - Подготовлены рекомендации по оптимизации скидок и ассортимента
 
-📊 [Отчёт PDF](./report_superstore.pdf)
+📊 [Отчёт PDF](./report_superstore_sales.pdf)
+📊 [Дашборд](./superstore_dashboard.pbix)
+📊 [EDA](./superstore_analysis.ipynb)
